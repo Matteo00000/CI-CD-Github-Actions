@@ -1,3 +1,5 @@
+##Nom membres du groupe : VAZ et HENRY
+
 # Biblio
 A console application for html generation using stdin for data ingestion.
 
